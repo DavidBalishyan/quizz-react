@@ -1,0 +1,36 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.question-section {
+  margin-bottom: 20px;
+}
+
+.question-count {
+  font-size: 1.2rem;
+}
+
+.question-text {
+  margin-top: 10px;
+  font-size: 1.5rem;
+}
+
+.answer-section button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.score-section {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.btn {
+  cursor: pointer;
+}
